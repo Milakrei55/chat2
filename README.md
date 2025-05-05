@@ -86,3 +86,50 @@ _As a user with visual impairments, I want compatibility with screen readers to 
 - **Chat UI Library:** Gifted Chat
 - **Styling:** Responsive and accessible design according to provided specifications
 - **Deployment:** Optimized for Android and iOS
+
+## 📌 Objective
+
+The goal of this project is to build a cross-platform chat application using **React Native**, showcasing capabilities in mobile development, Firebase integration, and accessibility support.
+
+---
+
+## 📚 Documentation
+
+- Inline code comments for clarity
+- User stories included in this README
+- Design informed by accessibility best practices
+
+---
+
+## 🌐 Hosting
+
+This app can be previewed using the **Expo Go** app on iOS and Android devices. It is not hosted on the web.
+
+---
+
+## 🏁 Getting Started
+
+To run this app locally:
+
+1. Clone the repo  
+   `git clone https://github.com/Milakrei55/CFChat.git`
+2. Navigate to the project folder  
+   `cd CFChat`
+3. Install dependencies  
+   `npm install`
+4. Start the development server  
+   `npx expo start`
+
+Use Expo Go to scan the QR code and launch the app.
+
+---
+
+## ✍️ Author
+
+Developed by Michaela (Milakrei55) as part of the Full-Stack Immersion Achievement 5.
+
+---
+
+## 🛑 Hard Rules
+
+- Project is for educational and portfolio use only
